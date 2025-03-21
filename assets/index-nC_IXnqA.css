@@ -1,0 +1,1 @@
+#App{display:flex;flex-direction:column;align-items:center;justify-content:center}#chart{position:relative}#tooltip{display:none;position:absolute;border:1px solid black;border-radius:30px;background-color:red;padding:5px}#states{fill:none;stroke:#fff}#info{display:flex;font-size:14px;font-family:Arial;font-weight:700;padding:5px;box-sizing:border-box}
